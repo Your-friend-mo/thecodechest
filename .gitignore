@@ -1,0 +1,7 @@
+# Scraper & generation scripts
+*.py
+__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
