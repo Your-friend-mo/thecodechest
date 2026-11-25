@@ -32,4 +32,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://thecodechest.com/sitemap.xml
+Sitemap: https://thecodechest.comee.online/sitemap.xml

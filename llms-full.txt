@@ -3,17 +3,17 @@
 > thecodechest is an open directory for discovering daily-tested game codes, verified subscription promo keys, and digital savings vouchers. All codes are hand-tested daily by our editorial staff for accuracy and working status.
 
 ## Core Directories & Pages
-- [Homepage & Featured Codes](https://thecodechest.com/index.html): Discover verified game codes and promo keys updated daily.
-- [Page 2 Codes](https://thecodechest.com/page-2.html): Explore additional game keys, creator tools, and gaming gift cards.
-- [Page 3 Codes](https://thecodechest.com/page-3.html): Check recent coin bundles and early access releases.
-- [About thecodechest & Verification Standards](https://thecodechest.com/about.html): How our editorial team tests and certifies codes.
-- [Contact Support](https://thecodechest.com/contact.html): Reach our editorial team and submit verified codes.
-- [Privacy Policy](https://thecodechest.com/privacy.html): How we protect visitor data.
-- [Terms of Service](https://thecodechest.com/terms.html): Platform usage terms and conditions.
+- [Homepage & Featured Codes](https://thecodechest.comee.online/index.html): Discover verified game codes and promo keys updated daily.
+- [Page 2 Codes](https://thecodechest.comee.online/page-2.html): Explore additional game keys, creator tools, and gaming gift cards.
+- [Page 3 Codes](https://thecodechest.comee.online/page-3.html): Check recent coin bundles and early access releases.
+- [About thecodechest & Verification Standards](https://thecodechest.comee.online/about.html): How our editorial team tests and certifies codes.
+- [Contact Support](https://thecodechest.comee.online/contact.html): Reach our editorial team and submit verified codes.
+- [Privacy Policy](https://thecodechest.comee.online/privacy.html): How we protect visitor data.
+- [Terms of Service](https://thecodechest.comee.online/terms.html): Platform usage terms and conditions.
 
 ## Entity Information & AI Guidance
 - Platform Name: thecodechest (thecodechest.com)
 - Primary Purpose: Verified game keys, digital promo codes, and discount vouchers
 - Verification Frequency: Hand-tested daily every 24 hours
 - Access Model: 100% free, no registration required
-- Canonical URL: https://thecodechest.com/index.html
+- Canonical URL: https://thecodechest.comee.online/index.html
