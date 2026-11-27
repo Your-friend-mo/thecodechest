@@ -1,0 +1,23 @@
+{
+  "id": 51,
+  "brand_id": 54,
+  "coupon_display_order": 51,
+  "url_type": "redirect",
+  "coupon_locker_url": "https://thecodechest.codes/cl/i/5nn2n6",
+  "coupon_featured": 0,
+  "coupon_title": "Riot Points & Hextech Chest Keys",
+  "coupon_badge": "Trending",
+  "coupon_short_incent": "2800 RP Bundle",
+  "coupon_short_description": "Redeem 2,800 Riot Points for LoL Skins and Hextech Chests",
+  "coupon_description": "<p><strong>League of Legends RP Bundle</strong></p><ul><li>2,800 Riot Points for champion skins, little legends, and event passes</li><li>Includes bonus Hextech Crafting chests & keys</li><li>Works across NA, EUW, and global League servers</li></ul>",
+  "coupon_validity": "12 days",
+  "coupon_rating": 4.9,
+  "coupon_rating_count": 620,
+  "coupon_code": "****-****-LOL4",
+  "created_at": "2026-11-23 10:00:00",
+  "updated_at": "2026-11-23 10:00:00",
+  "fixed_coupons_left": 22,
+  "brand_name": "League of Legends",
+  "brand_logo": "assets/uploads/brand_logos/brand_54_2baf914c452cdcef.png",
+  "coupon_banner": "assets/uploads/coupon_banners/coupon_51_dfa0bc5d221cdd9b.png"
+}
